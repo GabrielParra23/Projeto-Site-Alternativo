@@ -1,0 +1,1 @@
+Esse site tem o mesmo intuito do meu outro site porem aqui está sendo utilizado uma parte HTML e CSS para deixar o site muito mais bonito e mais funcional 
